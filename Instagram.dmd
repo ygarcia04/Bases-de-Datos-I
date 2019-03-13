@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Instagram" id="15AEF178-2943-E552-F980-B459EABE7750" version="3.5">
+<createdBy>Sistel-Support</createdBy>
+<createdTime>2019-02-25 15:15:46 UTC</createdTime>
+<ownerDesignName>Data Modeler Instagram</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>15AEF178-2943-E552-F980-B459EABE7750</designId>
+</OSDM_Design>
